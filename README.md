@@ -1,5 +1,7 @@
 ﻿# AI-Powered Student Assistant Chatbot Using Generative AI
 
+ Live Demo: [Open Link]https://student-assistant-chatbot-fih6sue8ysxrqucdzqyskl.streamlit.app/
+
 An intelligent academic assistant web application powered by **Google Gemini API**, **Streamlit**, and **FAISS** (Facebook AI Similarity Search) using **Retrieval-Augmented Generation (RAG)**.
 
 This project implements the complete system shown in the mini-project report:
