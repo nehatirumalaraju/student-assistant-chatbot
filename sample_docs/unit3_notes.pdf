@@ -1,0 +1,185 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 757 >>
+stream
+BT
+/F1 12 Tf
+50 730 Td
+(DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING) Tj
+0 -18 Td
+(COURSE: ARTIFICIAL INTELLIGENCE & GENERATIVE AI) Tj
+0 -18 Td
+(UNIT 3: NATURAL LANGUAGE PROCESSING FOUNDATIONS) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(1. Introduction to Natural Language Processing \(NLP\)) Tj
+0 -18 Td
+(Natural Language Processing is a subfield of computer science and artificial) Tj
+0 -18 Td
+(intelligence concerned with interactions between computers and human language.) Tj
+0 -18 Td
+(Key tasks include tokenization, part-of-speech tagging, and syntactic parsing.) Tj
+0 -18 Td
+(Statistical language models estimate the probability of word sequences.) Tj
+0 -18 Td
+(Traditional n-gram models suffered from sparsity and inability to capture long context.) Tj
+0 -18 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 662 >>
+stream
+BT
+/F1 12 Tf
+50 730 Td
+(UNIT 3: DEEP LEARNING FOR LANGUAGE) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(2. Recurrent Neural Networks \(RNN\) and LSTMs) Tj
+0 -18 Td
+(Recurrent Neural Networks introduced recurrent feedback loops allowing sequence memory.) Tj
+0 -18 Td
+(Vanishing and exploding gradient issues made long-range dependency capture difficult.) Tj
+0 -18 Td
+(Long Short-Term Memory \(LSTM\) networks addressed this with input, forget, and output gates.) Tj
+0 -18 Td
+(Gated Recurrent Units \(GRU\) simplified the architecture with reset and update gates.) Tj
+0 -18 Td
+(Sequence-to-sequence encoder-decoder frameworks laid the groundwork for modern models.) Tj
+0 -18 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 646 >>
+stream
+BT
+/F1 12 Tf
+50 730 Td
+(UNIT 3: THE TRANSFORMER REVOLUTION) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(3. Attention Mechanisms and Self-Attention) Tj
+0 -18 Td
+(Vaswani et al. \(2017\) introduced Attention Is All You Need, eliminating recurrence.) Tj
+0 -18 Td
+(Self-attention allows the model to weigh the importance of all tokens in parallel.) Tj
+0 -18 Td
+(Multi-head attention projects queries, keys, and values into multiple representation subspaces.) Tj
+0 -18 Td
+(Positional encodings provide the network with sequence order awareness.) Tj
+0 -18 Td
+(Pretrained models like BERT, GPT, and Gemini achieved state-of-the-art results across tasks.) Tj
+0 -18 Td
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 650 >>
+stream
+BT
+/F1 12 Tf
+50 730 Td
+(UNIT 3: VECTOR EMBEDDINGS & SEMANTIC SEARCH) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(4. Dense Representations and Vector Databases) Tj
+0 -18 Td
+(Words and documents are mapped into continuous dense high-dimensional vector spaces.) Tj
+0 -18 Td
+(Cosine similarity measures the semantic distance between queries and stored documents.) Tj
+0 -18 Td
+(Approximate Nearest Neighbor \(ANN\) indexing enables fast search over millions of items.) Tj
+0 -18 Td
+(FAISS \(Facebook AI Similarity Search\) is an efficient library for dense vector indexing.) Tj
+0 -18 Td
+(Vector databases serve as external memory for Large Language Models.) Tj
+0 -18 Td
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 804 >>
+stream
+BT
+/F1 12 Tf
+50 730 Td
+(UNIT 3: RETRIEVAL-AUGMENTED GENERATION \(RAG\)) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(5. Retrieval-Augmented Generation in Educational Systems) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(Why is RAG used in academic assistants?) Tj
+0 -18 Td
+(It improves the accuracy of responses by retrieving relevant information from academic) Tj
+0 -18 Td
+(documents before generating the answer.) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(RAG retrieves relevant passages from the document and supplies them to the LLM,) Tj
+0 -18 Td
+(which reduces incorrect answers and keeps responses tied to the study material.) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(Furthermore, RAG provides transparent provenance through page citations, enabling) Tj
+0 -18 Td
+(students to verify facts directly against course syllabi, textbooks, and notes.) Tj
+0 -18 Td
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000140 00000 n 
+0000000267 00000 n 
+0000001075 00000 n 
+0000001202 00000 n 
+0000001915 00000 n 
+0000002042 00000 n 
+0000002739 00000 n 
+0000002867 00000 n 
+0000003569 00000 n 
+0000003698 00000 n 
+0000004554 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+4625
+%%EOF
